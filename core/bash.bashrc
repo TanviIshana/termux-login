@@ -10,7 +10,7 @@ clear
 echo "Created By VamshiGoud"
 echo "----------------------------" | lolcat
 echo "Vamshi"
-echo "Github: github.com/TanviIshana/"
+echo "Github: github.com/Vamshi/"
 echo "----------------------------" | lolcat
 echo "
 +-+-+-+-+-+-+-+
